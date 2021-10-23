@@ -1,35 +1,12 @@
 ## Welcome to Guan Xiuxian's Personal Homepage
 
-I received Bachelor's degree in The University of Science and Technology of China and is currently a first year (2021Fall-) HKU-SusTech Joint PhD student.
+I am currently a first year (2021Fall-) HKU-SusTech Joint PhD student in Department of Computer Science in HKU and Department of Electrical & Electronic Engineering in SusTech. I received Bachelor's Degree in Computer Science and Technology in The University of Science and Technology of China (USTC).
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **X. Guan**, S. Deng, Z. Sun, S. Zhao, T. Li, T. Shen, Y. Wang, R. Wang, H. Cui, "MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Applications," (ICPADS 2021, accepted)
 
-```markdown
-Syntax highlighted code block
+2. **G. Xiuxian**, L. Yawei, W. Yuexuan, S. Zekai, D. Shengliang and C. Heming, "[CTDMA: Color-aware TDMA Network System For Low latency and High Throughput in Dense D2D Wireless Network](https://ieeexplore.ieee.org/document/9356015)," 2020 IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2020, pp. 318-328, doi: 10.1109/MASS50613.2020.00047.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guanxiux/selfie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
