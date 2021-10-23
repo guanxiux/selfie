@@ -1,6 +1,6 @@
 ## Welcome to Guan Xiuxian's Personal Homepage
 
-I am currently a first year (2021Fall-) HKU-SusTech Joint PhD student in Department of Computer Science, HKU and Department of Electrical & Electronic Engineering, SusTech. I received Bachelor's Degree in Computer Science and Technology in The University of Science and Technology of China (USTC) in 2020.
+I am currently a first year (2021Fall--Now) HKU-SusTech Joint PhD student in Department of Computer Science, HKU and Department of Electrical & Electronic Engineering, SusTech. I received Bachelor's Degree in Computer Science and Technology in The University of Science and Technology of China (USTC) in 2020.
 
 ### Publications
 
