@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Guan Xiuxian's Personal Homepage
 
-You can use the [editor on GitHub](https://github.com/guanxiux/selfie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I received Bachelor's degree in The University of Science and Technology of China and is currently a first year (2021Fall-) HKU-SusTech Joint PhD student.
 
 ### Markdown
 
