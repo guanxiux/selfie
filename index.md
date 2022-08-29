@@ -4,11 +4,13 @@ I am currently a HKU-SusTech Joint PhD student (2021Fall--Now) in Department of 
 
 ### Publications
 
-1. **X. Guan**, S. Deng, Z. Sun, S. Zhao, T. Li, T. Shen, Y. Wang, R. Wang, H. Cui, "MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Applications," (ICPADS 2021, accepted)
+1. Deng Shengliang, **Guan Xiuxian**, Sun Zekai, Zhao Shixiong, Shen Tianxiang, Chen Xusheng, Duan Tianyang, Wang Yuexuan, Pan Jia, Wu Yanjun, Zhang Libo, Cui Heming, "[COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning](https://ieeexplore.ieee.org/abstract/document/9670456)," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2022.3140400.
 
-2. S. Zhao, F. Li, X. Chen, **X. Guan**, J. Jiang, D. Huang, Y. Qing, S. Wang, P. Wang, G. Zhang, C. Li, P. Luo, H. Cui, "vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training," in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 3, pp. 489-506, 1 March 2022, doi: 10.1109/TPDS.2021.3094364.
+2. **X. Guan**, S. Deng, Z. Sun, S. Zhao, T. Li, T. Shen, Y. Wang, R. Wang, H. Cui, "[MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Application](https://ieeexplore.ieee.org/document/9763805)," 2021 IEEE 27th International Conference on Parallel and Distributed Systems (ICPADS), 2021, pp. 266-273, doi: 10.1109/ICPADS53394.2021.00039.
 
-3. **G. Xiuxian**, L. Yawei, W. Yuexuan, S. Zekai, D. Shengliang and C. Heming, "[CTDMA: Color-aware TDMA Network System For Low latency and High Throughput in Dense D2D Wireless Network](https://ieeexplore.ieee.org/document/9356015)," 2020 IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2020, pp. 318-328, doi: 10.1109/MASS50613.2020.00047.
+3. S. Zhao, F. Li, X. Chen, **X. Guan**, J. Jiang, D. Huang, Y. Qing, S. Wang, P. Wang, G. Zhang, C. Li, P. Luo, H. Cui, "[vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training](https://ieeexplore.ieee.org/document/9472938)," in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 3, pp. 489-506, 1 March 2022, doi: 10.1109/TPDS.2021.3094364.
+
+4. **G. Xiuxian**, L. Yawei, W. Yuexuan, S. Zekai, D. Shengliang and C. Heming, "[CTDMA: Color-aware TDMA Network System For Low latency and High Throughput in Dense D2D Wireless Network](https://ieeexplore.ieee.org/document/9356015)," 2020 IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2020, pp. 318-328, doi: 10.1109/MASS50613.2020.00047.
 
 
 
